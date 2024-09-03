@@ -1,0 +1,10 @@
+.contanier
+{
+    width: 50%;
+    margin-inline: auto;
+    padding: auto;
+}
+.item
+{
+    float: left;
+}
